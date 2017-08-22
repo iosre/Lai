@@ -1,0 +1,1 @@
+A variety of [this WeChat robot](https://github.com/iosre/WeChatRobotForExample) specifically made to serve the group of Lai.

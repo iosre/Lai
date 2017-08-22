@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>welcomeMessage</key>
+	<string>欢迎新朋友 %@ 加入，请新朋友\r\n1) 发个红包，多少随意，主要是打个招呼\r\n2) 简单介绍一下自己的经历和工作背景等\r\nHave fun!</string>
+</dict>
+</plist>
